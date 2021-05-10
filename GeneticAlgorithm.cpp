@@ -1,9 +1,6 @@
 /* Poppy La
 * File name: Sudoku.h
-* Instructor: Dr.Stiber
-* Date: 03/12/2021
-* Course: CSS343
-* Program 4: Genetic Programing: Sudoku
+* Genetic Programing: Sudoku
 */
 
 /*
